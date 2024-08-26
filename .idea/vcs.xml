@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Conditionl_Operator/conditional_Operator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Increment_Decrement/increment_decrement" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Logical_Operator/logicaloperator" vcs="Git" />
+  </component>
+</project>

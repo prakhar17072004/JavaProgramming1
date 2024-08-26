@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Conditionl_Operator/Conditionl_Operator.iml" filepath="$PROJECT_DIR$/Conditionl_Operator/Conditionl_Operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Increment_Decrement/Increment_Decrement.iml" filepath="$PROJECT_DIR$/Increment_Decrement/Increment_Decrement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaProgramming.iml" filepath="$PROJECT_DIR$/.idea/JavaProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Logical_Operator/Logical_Operator.iml" filepath="$PROJECT_DIR$/Logical_Operator/Logical_Operator.iml" />
+    </modules>
+  </component>
+</project>

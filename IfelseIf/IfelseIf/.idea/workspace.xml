@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f06708ef-c2c4-4778-a093-1caa382b7850" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/If-else-If.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BigFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BigOfThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IsAlphabetOrDigitOrSpecialCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IsDivisible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IsVowelConsonant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LowerOrUppercase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TypeOfTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ValidTriangle.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2l76mjwMkCbqnz8nrfO9Nk9aPry" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BigFour.executor": "Run",
+    "Application.BigOfThree.executor": "Run",
+    "Application.IsAlphabetOrDigitOrSpecialCharacter.executor": "Run",
+    "Application.IsDivisible.executor": "Run",
+    "Application.IsVowelConsonant.executor": "Run",
+    "Application.LowerOrUppercase.executor": "Run",
+    "Application.TypeOfTriangle.executor": "Run",
+    "Application.ValidTriangle.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.TypeOfTriangle">
+    <configuration name="BigFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BigFour" />
+      <module name="If-else-If" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsAlphabetOrDigitOrSpecialCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IsAlphabetOrDigitOrSpecialCharacter" />
+      <module name="If-else-If" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsDivisible" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IsDivisible" />
+      <module name="If-else-If" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TypeOfTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TypeOfTriangle" />
+      <module name="If-else-If" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ValidTriangle" />
+      <module name="If-else-If" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TypeOfTriangle" />
+        <item itemvalue="Application.ValidTriangle" />
+        <item itemvalue="Application.IsDivisible" />
+        <item itemvalue="Application.BigFour" />
+        <item itemvalue="Application.IsAlphabetOrDigitOrSpecialCharacter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f06708ef-c2c4-4778-a093-1caa382b7850" name="Changes" comment="" />
+      <created>1724518930330</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724518930330</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/IsAlphabetOrDigitOrSpecialCharacter.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
